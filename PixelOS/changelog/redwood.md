@@ -1,3 +1,9 @@
+# 01-Jan-2026
+- Updated blobs from OS2.0.16.0.UMSMIXM
+- Firmware Included
+- Fixed Night Light and Extra Dim
+- Exposed aux cameras to multiple camera apps
+
 # 31-Dec-2025
 - Source Changelog (https://blog.pixelos.net/changelogs/)
 - Updated blobs from OS2.0.13.0.UMSMIXM
