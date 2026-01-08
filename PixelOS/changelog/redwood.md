@@ -1,3 +1,9 @@
+# 08-Jan-2026
+- Fixed Google Cast
+- Restored blur and fixed QS lag when blur is enabled
+- Fixed VoLTE and VoWifi on secondary SIM slot
+- Some memory optimizations
+
 # 01-Jan-2026
 - Updated blobs from OS2.0.16.0.UMSMIXM
 - Firmware Included
