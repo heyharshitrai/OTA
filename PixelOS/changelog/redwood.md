@@ -1,3 +1,8 @@
+# 20-Jan-2026
+- Source Changelog (https://blog.pixelos.net/changelogs/)
+- Updated Kernel to Scarlet-v4.0.1-KSUN
+- Moved blur toggle to display settings
+
 # 08-Jan-2026
 - Fixed Google Cast
 - Restored blur and fixed QS lag when blur is enabled
