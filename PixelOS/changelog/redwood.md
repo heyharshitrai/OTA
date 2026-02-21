@@ -1,3 +1,14 @@
+# 21-Feb-2026
+- Update based on Android 16 QPR2
+- Updated blobs from OS2.0.17.0.UMSMIXM
+- Firmware Included
+- Added Torch Strength Control
+- Switched to lineage power-libperfmgr
+- Disabled VSync for CPU rendered apps
+- Specified Ambient Color Temperature sensor
+- Moved Pif and Keybox Settings from Developer Options to Apps section
+- More optimizations for improved fluidity and performance
+
 # 20-Jan-2026
 - Source Changelog (https://blog.pixelos.net/changelogs/)
 - Updated Kernel to Scarlet-v4.0.1-KSUN
