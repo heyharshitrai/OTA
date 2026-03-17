@@ -1,3 +1,11 @@
+# 17-Mar-2026
+- Includes March Security Patch
+- Shipped with kernel Scarlet-v4.0
+- Fixed 'fastboot flash modem modem.img'
+- Fixed battery and USB OTG detection in recovery mode
+- Adjusted Media Volume Steps
+- Reverted to s2idle as default suspend mode
+
 # 21-Feb-2026
 - Update based on Android 16 QPR2
 - Updated blobs from OS2.0.17.0.UMSMIXM
