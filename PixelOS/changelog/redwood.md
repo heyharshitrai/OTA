@@ -1,3 +1,8 @@
+# 24-Mar-2026
+- Switched to Sony Dolby Atmos
+- Shipped with kernel Scarlet-v4.1
+- Reverted back to deep as default suspend mode
+
 # 17-Mar-2026
 - Includes March Security Patch
 - Shipped with kernel Scarlet-v4.0
