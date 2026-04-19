@@ -1,3 +1,15 @@
+# 19-Apr-2026
+- Set short suspend threshold to 5 seconds
+- Disabled ART and dex2oat debugging
+- Reduced mi_thermald permissions in sysfs
+- Enabled asynchronous library events in WPA supplicant
+- Enabled support for IEEE80211AC
+- Switched to Xiaomi Dolby Atmos
+- Switched to KernelSU-Next
+- Migrated to QTI USB Gadget AIDL HAL
+- Switched to NCM USB tethering
+- Added support for OTA Updates
+
 # 24-Mar-2026
 - Switched to Sony Dolby Atmos
 - Shipped with kernel Scarlet-v4.1
