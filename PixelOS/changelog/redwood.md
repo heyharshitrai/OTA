@@ -1,3 +1,8 @@
+# 11-May-2026
+- Set display idle timeout to 0
+- Shipped with Araxys-v2.0
+- Backported Susfs-v2.1.0
+
 # 19-Apr-2026
 - Set short suspend threshold to 5 seconds
 - Disabled ART and dex2oat debugging
