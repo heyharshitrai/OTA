@@ -1,3 +1,10 @@
+# 11-Jun-2026
+- Introduced init.lahaina.perf.rc for performance tuning
+- Allocated 6 buffers for SurfaceFlinger FrameBufferSurface
+- Disabled EGL image tracking
+- Disabled WLAN firmware loggings
+- Updated BCR package
+
 # 11-May-2026
 - Set display idle timeout to 0
 - Shipped with Araxys-v2.0
