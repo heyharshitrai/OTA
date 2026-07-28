@@ -1,3 +1,18 @@
+# 27-Jul-2026
+- Shipped with Araxys-v3.0 kernel
+- Switched to Motorola Dolby Atmos
+- Added support for Dolby Vision
+- Enabled Wifi Multi STA Restricted Concurrency
+- Enabled ART optimization
+- Disabled RescureParty
+- Switched to skiaglthreaded renderthread backend
+- Fixed some selinux denials
+- Disabled NL80211_REG_CHANGED event
+- Migrated to AIDL camera provider
+- Set FCM level to 7
+- Reduce mlock() limit to 64 KB
+- Updated BCR package
+
 # 11-Jun-2026
 - Introduced init.lahaina.perf.rc for performance tuning
 - Allocated 6 buffers for SurfaceFlinger FrameBufferSurface
