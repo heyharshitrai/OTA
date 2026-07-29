@@ -1,3 +1,9 @@
+# 29-Jul-2026
+- Updated kernel to Araxys-v3.1
+- Switched to backslashxx_ksu
+- Dropped susfs patches
+- Fixed front cam video recording in miui camera
+
 # 27-Jul-2026
 - Shipped with Araxys-v3.0 kernel
 - Switched to Motorola Dolby Atmos
