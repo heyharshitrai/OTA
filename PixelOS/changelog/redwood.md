@@ -1,3 +1,10 @@
+# 22-Aug-2026
+- Initial build based on Android 17 Update
+- Tweaked dax-default
+- Updated WFD system stack from LA.QSSI.17.0.r1-06700-qssi.0
+- Bumped FCM level to 7
+- Removed Updater
+
 # 29-Jul-2026
 - Updated kernel to Araxys-v3.1
 - Switched to backslashxx_ksu
