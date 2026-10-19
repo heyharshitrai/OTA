@@ -1,3 +1,12 @@
+# 19-Oct-2026
+- Updated kernel to Araxys-v4.0
+- Updated BCR
+- Removed Ok Google Support
+- Dropped Dolby Atmos
+- Added support for ViPER4AndroidFX
+- Added A17 native app lock feature
+- Reverted PixelOS keybox implementation back to developer options
+
 # 22-Aug-2026
 - Initial build based on Android 17 Update
 - Tweaked dax-default
