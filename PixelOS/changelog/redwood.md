@@ -1,3 +1,8 @@
+# 16-Nov-2026
+- Fixed free fire max magenta screen while launching
+- Fixed miui camera filters
+- Fixed front camera video recording freeze during focus
+
 # 19-Oct-2026
 - Updated kernel to Araxys-v4.0
 - Updated BCR
